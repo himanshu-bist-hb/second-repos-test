@@ -1,4 +1,17 @@
+[theme]
+base = "light"
+
 [server]
 headless = true
 enableCORS = false
 port = 8000
+
+[browser]
+gatherUsageStats = false
+serverAddress = "0.0.0.0"
+
+[client]
+# Replace favicon
+favicon = "https://cdn-icons-png.flaticon.com/512/2945/2945303.png"
+# Replace title (shown in browser tab)
+title = "My Custom App"
