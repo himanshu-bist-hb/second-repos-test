@@ -3,20 +3,18 @@ import streamlit as st
 st.set_page_config(page_title="For You ❤️", page_icon="🌹", layout="centered")
 
 # Title
-st.title("Hi Love! 💖")
+st.title("Hello! 💖")
 
-# Image
-st.image("srishti.jpeg", caption="You are beautiful 😘", use_column_width=True)
 
 # Message
 st.markdown("""
 ### Just wanted to say...
-You light up my world like nobody else ✨  
-Your smile, your kindness, and your love mean everything to me.  
-**I'm lucky to have you. ❤️**
+You are the most beautiful girl in the world ✨  
+Your smile, your kindness, and your intelligence everything is so good.  
+**I'm lucky to be a friend of the purest soul ❤️**
 
 """)
 
 # Button
 if st.button("Click me 💌"):
-    st.success("I love you more every day 💕")
+    st.success("You are the prettiest girl 💕")
