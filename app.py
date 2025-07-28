@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="For You ❤️", page_icon="🌹", layout="centered")
 
 # Title
-st.title("Hello Ananya! 💖")
+st.title("Hello ! 💖")
 
 
 # Message
